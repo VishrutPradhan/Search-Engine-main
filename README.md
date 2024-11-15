@@ -44,7 +44,7 @@ Table of Contents
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Zilean12/Search-Engine.git
+   https://github.com/VishrutPradhan/Search-Engine-main.git
    ```
    ```bash
    cd Search-Engine
